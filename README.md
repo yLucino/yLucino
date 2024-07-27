@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do yLucino 😁
+## Luciano Chiodini - Desenvolvedor Front-end! 😁
 
  <div>
    <a href="https://github.com/yLucino">
