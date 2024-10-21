@@ -1,4 +1,4 @@
-## Luciano Chiodini - Desenvolvedor Front-end! 😁
+## Luciano Chiodini - Desenvolvedor Fullstack
 
  <div>
    <a href="https://github.com/yLucino">
